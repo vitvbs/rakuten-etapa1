@@ -1,0 +1,25 @@
+#company-values {
+    padding: 20px 0;
+    .value {
+        border-left: 1px solid #9999;
+        width: 25%;
+        padding: 0 20px;
+        img {
+            display: block;
+            margin: 0 auto;
+        }
+        p {
+            text-align: center;
+        }
+    }
+    .value2 {
+        padding-top: 11px;
+    }
+    .value4 {
+        padding-top: 13px;
+        border-right: 1px solid #9999;
+    }
+}
+.justify-space-evenly {
+    justify-content: space-evenly;
+}
